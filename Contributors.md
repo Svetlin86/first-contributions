@@ -4622,4 +4622,5 @@ Michael Wong
 - [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
 - [Yash Chandak](https://github.com/ychandak17/)
+- [Svetlin Trapkov](https://github.com/Svetlin86)
 <!-- prettier-ignore-end -->
